@@ -17,7 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    //我要有钱钱动物园的技能和定居点技能
 }
 
 - (void)didReceiveMemoryWarning {
